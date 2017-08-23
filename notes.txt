@@ -1,0 +1,3 @@
+http://invisible-island.net/dialog/
+http://lea-linux.org/documentations/Dev-dialog
+
